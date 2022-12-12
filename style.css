@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    border-radius: 7px;
+    border-width: 1px;
+    border-color: transparent;
+    
+   
+}
+
+.container{
+    padding: 100px 200px 2px 200px;
+    font-size: larger;
+   
+}
+
+button,input{
+    height: 50px;
+    margin: 5px 0;
+   
+}
+input{
+    border-color: rgb(221, 223, 226);;
+}
